@@ -1,0 +1,6 @@
+framework module Pods_249NorvayneCollective {
+  umbrella header "Pods-249NorvayneCollective-umbrella.h"
+
+  export *
+  module * { export * }
+}
